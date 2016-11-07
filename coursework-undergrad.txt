@@ -27,4 +27,23 @@ Solid Mechanics II - Surendrababu - A
 Hydraulics and Hydraulic Machines - Maruthi Krishna - A
 Elements of Electrical and Mechanical Engineering - Sumanth and Rangarao - A
 
+B.Tech Third Year Semester I Coursework:
+
+Environmental Engineerig I - Maruthi Krishna - A
+Structural Engineering I - Ushakranthi - A
+Water Resources Engineering I - Maruthi Krishna - A
+Design of Concrete Structures I - Surendrababu - A
+Design of Steel Structures I - Sai ram - B
+Geotechnical Engineering I - Ramarao - A
+
+B.Tech Third Year Semester II Coursework:
+
+Professional Ethics and Human Values - Nagarajan - B
+Structural Engineering II - Ushakranthi - B
+Water Resources Engineerinng II - Maruthi Krishna - A
+Design of Concrete Structures II - Surendrababu - A
+Design of Steel Structures II - Sai Ram - B
+Geotechnical Engineering II - Ramarao - A
+Environmental Engineering II - Maruthi Krishna - A
+
 
