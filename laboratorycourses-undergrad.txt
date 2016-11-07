@@ -1,0 +1,40 @@
+B.Tech First Year Labs:
+
+Engineering Physics Laboratory
+Engineering Chemistry Laboratory
+Introduction to C Language Laboratory
+Engineering Work Shop
+
+B.Tech Second Year Semester I Labs:
+
+Engineering Geology Laboratory
+Surveying Fieldwork I Laboratory
+Building Drawing
+
+B.Tech Second Year Semester II Labs:
+
+Hydraulics and Hydraulic Machines Laboratory
+Material Testing Laboratory
+Communication Skills Laboratory
+
+B.Tech Third Year Semester I Labs:
+
+Environmental Engineering Laboratory
+Geotechnical Engineering Laboratory
+Computer Applications in Civil Engineering Laboratory
+
+B.Tech Third Year Semester II Labs:
+
+Surveying Field Work II
+Computer Aided Analysis and Design in Civil Engineering Laboratory
+
+B.Tech Final Year Semester I Labs:
+
+Term Paper
+Computer Aided Detailing of Structures
+Transportation Engineering Laboratory
+
+B.Tech Final Year Semester II Labs:
+
+Quantity Estimation and Project Management
+Final Project Work

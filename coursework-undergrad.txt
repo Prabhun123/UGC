@@ -14,8 +14,8 @@ B.Tech Second Year Semester I Coursework:
 Engineering Mathematics III - Lakshminarayana - A
 Building Materials Planninng and Construction - Nagarajan - A
 Engineering Surveying I - Sridevi - A
-Solid Mechanics I - Satyanarayana - B
-Fluid Mechanics - Maruthi krishna - A
+Solid Mechanics I - Surendrababu - B
+Fluid Mechanics - Satyanarayana - A
 Engineering Geology - Sanjeeavarao - B
 
 B.Tech Second Year Semester II coursework:
@@ -44,6 +44,20 @@ Water Resources Engineerinng II - Maruthi Krishna - A
 Design of Concrete Structures II - Surendrababu - A
 Design of Steel Structures II - Sai Ram - B
 Geotechnical Engineering II - Ramarao - A
-Environmental Engineering II - Maruthi Krishna - A
+Environmental Engineering II - Sanjeevarao - A
 
+B.Tech Final Year Semester I Coursework:
 
+Transportation Engineering I - Samatha Chowdary - A
+Structural Engineering III - Ushakranthi - A
+Water Resources Engineering III - Sairam - A
+Construction Estimation and Costing - Nagarajan - A
+Earthquake Resistant Design of Structures - Sai Ram - A
+Prestressed Design of Structures - Krishnasai - A
+
+B.Tech Final Year Semester II Coursework:
+
+Transportation Engineering II - Samatha Chowdary - A
+Construction Management - Sairam - A
+Bridge Engineering - Krishnasai - B
+Advanced Environmental Engineering - A
